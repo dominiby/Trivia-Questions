@@ -41,9 +41,6 @@ PUT /questions/:id - updates existing question
 DELETE /questions/:id - deletes the question
 ```
 
-Contributors names and contact info
-[@dominiby]
-
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
