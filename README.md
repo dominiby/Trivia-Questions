@@ -13,7 +13,7 @@ Clone the repo, then simply:
 npm / yarn install - install all the packages
 ```
 
-### Scripts:
+### Scripts
 ```
 yarn lint - use eslint to run through all source files
 ```
